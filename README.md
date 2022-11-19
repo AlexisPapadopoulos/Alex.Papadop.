@@ -1,2 +1,2 @@
-# Alexis.Papadopoulos.
+# Example of README
 Η δημιουργία του πρώτου αποθετηρίου μου.
